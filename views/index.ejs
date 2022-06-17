@@ -1,0 +1,23 @@
+<% var posts
+var title
+%>
+
+
+<html>
+<head>
+    <title>
+        <%= title %>
+    </title>
+</head>
+
+<body>
+<% for (var i = 0; i < posts.length; i++){ %>
+    <div>
+        <p><%= posts[i].title %></p>
+        <p> <%= posts[i].content %></p>
+    </div>
+
+<% } %>
+</body>
+
+</html>

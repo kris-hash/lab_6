@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Keeping technologists in the flow state",
+    "content": "It’s hard to believe we’re already four weeks into the New Year, especially as everything we have to celebrate from 2021 is still fresh in my mind. 2021 was a momentous year—not just for Stack Overflow, but for the tech industry at large. We welcomed over 250 Stackers to the company, added over 750,000 new members to the Stack Overflow community over the last quarter, and our business finished the calendar year by overachieving on our annual sales target with a record number of new logos for Stack Overflow for Teams. We even saw record engagement through our annual Winter Bash (or Summer Bash depending on your hemisphere), which is our end-of-year tradition that rewards users for engaging across the public platform. It was a great year for the company and the community, and we are so grateful to everyone who joined us and for those who continue to contribute to collective learning across the platform.\n\nFrom an industry perspective, the transition to a new year is a common time for folks to reflect on the year they are leaving behind and their hopes for the year ahead. “The Great Resignation” led to some developers seeking new jobs, especially while a record number of companies raised funding and went public, prompting major growth industry-wide.\n\nThere are over 70,000 technical jobs open while roughly 80% of developers are not actively looking for a new job. At Stack Overflow, we hired over 250 team members in 2021 and are planning to hire close to the same number in the year ahead (check out the roles currently open). Naturally, we turned to the community to see what’s most important when evaluating current and future employers to inform our own recruiting efforts and how we serve the community and our industry at large.\n\nDevelopers are craving flexibility and opportunities to learn at work. If they aren’t getting it, they are looking elsewhere. Developers often set the tone for the rest of the tech industry. As we dive into 2022, all employers need to prioritize flexibility and opportunities to learn. The future of work is the future of continuous learning.",
+    "author": "Prashanth Chandrasekar",
+    "comments": [
+      {
+        "name": " Andrew Sullivan",
+        "content": "Please stop messing with me. What do I need to do for it to stop"
+      },
+      {
+        "name": "TJ",
+        "content": "“Would you trust an AI to be your eyes?” Yes. In fact, I did – I got LASIK."
+      }
+    ]
+  },
+  {
+    "title": "Does anyone feel grossed out by how many humans there are?",
+    "content": "When I think about how there are 8billion people just roaming earth, taking 8billion poops a day, eating 8billion meals, and using so many resources… it just really grosses me out. There’s too many people on this planet.\n\nEDIT: Wow, wasn’t expecting this to blow up. For some clarification: no, I do not want anyone currently living, including myself, to die. I just wish capitalism wasn’t a thing, and that people would stop pushing out so many babies.",
+    "author": "Climate&Environment_surrender",
+    "comments": [
+      {
+        "name": "FullOfHopkins",
+        "content": "For some reason when I was in college living in a dorm I had an almost daily intrusive thought about how much human shit was processed through my college campus every day. For some reason I’ve never really scaled that up to the whole world, but I have to say I get the sentiment and can relate"
+      },
+      {
+        "name": "frapatchino-25",
+        "content": "Felt that. In my dorm our toilets always got clogged, constantly. I felt like I was living in a beehive."
+      },
+      {
+        "name": "Ryan",
+        "content": "Matt might want to recommend Rectangle over Magnet. It’s free and open source!"
+      }
+    ]
+  },
+  {
+    "title": "Open-source is winning over developers and investors ",
+    "content": "Supabase, the open-source database-as-a-service company, raised $80 million in Series B funding in a round led by Felicis Ventures. In case you were wondering: YYes, the company is named for the Nicki Minaj song!.\n\nToday in tech recs: Cassidy recommends budgeting app Lunch Money for everything from crypto to cash. Matt recommends Magnet for window management.\n\nToday’s Lifeboat badge goes to user dfrib for their answer to Error “nil requires a contextual type” using Swift.",
+    "author": "Ben Popper",
+    "comments": [
+      {
+        "name": " TJ",
+        "content": "I never have (and probably never will) understand the obsession with open source."
+      },
+      {
+        "name": "Ryan",
+        "content": "Matt might want to recommend Rectangle over Magnet. It’s free and open source!"
+      }
+    ]
+  },
+  {
+    "title": "Visual Studio turns 25, new ideas for supporting open source, and of course…NFTs",
+    "content": "The team pays tribute to Microsoft’s Visual Studio, an IDE and source code editor that turns 25 this month.\n\nRead Simon Willison’s article on how companies can financially support the open-source contributors they rely on. \n\nLearn more about open source’s diversity problem, and how to address it, here and here.\n\nWhy are K-pop NFTs so unpopular with fans? The Atlantic digs in.\n\nICYMI: Listen to our conversation with HashiCorp cofounder Mitchell Hashimoto: Moving from CEO back to IC.",
+    "author": "Eira May",
+    "comments": [
+      {
+        "name": "user_3565",
+        "content": "The home team talks about Cassidy’s new role as Head of Developer Experience and Education at Remote, Ceora’s controversial opinion on mac and cheese, and why Gen Z may understand information architecture differently than the rest of us."
+      }
+    ]
+  },
+
+  {
+    "title": "Would you trust an AI to be your eyes?",
+    "content": "The crew has complicated feelings about products like Apple’s augmented reality glasses and Google Glass. Ceora put it best: “I’m very cautious about any big tech company having any more access to my perception of reality.” \n\nOn the other hand, products like Envision smart glasses that help visually-impaired people navigate their environments exemplify how AR technology can enable accessibility and empower users.\n\nSpeaking of different perceptions of reality, New York mayor Eric Adams dusts off that old chestnut about how remote workers “can’t stay home in your pajamas all day.” (Watch us.)\n\nMatt recommends Oh My Git!, an open-source game that teaches Git. Ceora recommends Popsy, which allows you to turn your Notion pages into a website for free.\n\nAnd some recommended reading: How to make the most out of a mentoring relationship from the GitHub blog and How to use the STAR method to ace your job interview from The Muse.\n\nToday’s Lifeboat badge goes to user metadept for their answer to Generate a two-digit positive random number in JavaScript.",
+    "author": "Eira May",
+    "comments": [
+      {
+        "name": " Andrew",
+        "content": "If one looks at society and technology over the last 4 decades or so…. I think (no reference, just things I’ve read, and am interested)\n\nIt seems quite clear, as I say – IMHO – that as technology increases, the loss of personal privacy *seems* to me to be almost the same line. The more tech, the higher, better tech… the less privacy… It’s like… it seems inevitable… tech will keep going up… Whereas, you can only lose so much privacy.. so we’re going to hit the lack of privacy limit. Not long.\n\nGoogle glass didn’t catch on because then nobody wants to be near you, in other words recorded audio & video live all the time.\n\nIf I had $10 billion.. and.. the *really* hard part.. a group of top AI (real – the rest it still really just Expert Systems.. just better and built different) .. ok.. maybe even a few people but 2-12 or so top AI R&D, different aspects, but about real AI. The thing that makes it harder than $10 Billion – is that every one of those people in the group have to be people that I trust (so much more than just) the lives of 7 billion people. I’d say AI within a decade and all these problems people talk about would go away. (if *I* write it… if one of the mega-billion $ Annual(!) budget.. writes a true AI first, it could be very scary. Way, way worse than just the extinction of humanity. Obviously.. if I write it first, nobody will die for lack of clean water, good food, housing… so many people have no idea.\nI think I know the logistics of pretty much all of it, but it’s hard to find people to bounce off of…I have to trust them with 7 billion lives first."
+      },
+      {
+        "name": "Zachary Angemi",
+        "content": "The current state of Artificial Intelligence is quite fast to identify objects in an image, but nowhere near as fast as the human eyes and brain. If AI got to a point in which it could identify an object, its surroundings, and its range to you, I would say that yes, I would be willing to allow an AI to be my eyes"
+      },
+      {
+        "name": "TJ",
+        "content": "“Would you trust an AI to be your eyes?” Yes. In fact, I did – I got LASIK."
+      }
+    ]
+  },
+
+  {
+    "title": "Best practices can slow your application down",
+    "content": "In software engineering, a number of fairly non-controversial best practices have evolved over the years, which include decoupled modules, cohesive code, and automated testing. These are practices that make for code that’s easy to read and maintain. Many best practices were developed by researchers like David Parnas as far back as the 1970s, people who thought long and hard about what makes maintainable high quality systems. \n\nBut in building the codebase for our public Stack Overflow site, we didn’t always follow them. \n\nThe Cynefin framework can help put our decision into context. It categorizes decisions into obvious, complicated, complex, and chaotic. From today’s perspective, building a Q&A site is a pretty well-defined—obvious—problem and a lot of best practices emerged over the past years. And if you’re faced with a well-defined problem, you should probably stick to those best practices. But back in 2008, building a community-driven Q&A site at this scale was far from being obvious. Instead, it fell somewhere in the “complex” quadrant (with some aspects in the “complicated” quadrant, like tackling the scaling issues we had). There were no good answers on how to build this yet, no experts who could show us the way. Only a handful of people out there faced the same issues.",
+    "author": "Roberta Arcoverde and Ryan",
+    "comments": [
+      {
+        "name": "Guilherme",
+        "content": "Imagine building Stack Overflow without Stack Overflow!"
+      },
+      {
+        "name": "Flávio Mello",
+        "content": "Thanks for saying what is already on the text."
+      },
+      {
+        "name": "Johann Gerell",
+        "content": "Well, that’s what a takeway is, a.k.a. TL;DR"
+      }
+    ]
+  }
+]

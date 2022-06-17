@@ -1,0 +1,58 @@
+<%
+var post
+var comments
+%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title><%= post.title %></title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+
+</head>
+
+<body>
+<div class="wraper">
+
+    <%- include('header') %>
+
+    <main>
+        <section class="articles">
+
+            <article>
+                <h2><%= post.title %></h2>
+                <p>Author: <%= post.author %></p>
+                <p>Published <%= //post.date.toLocaleDateString('en-GB') %></p>
+                <p><%= post.content %></p>
+                <div class="comment-section">
+                    <% for (var i = 0; i < comments.length; i++){ %>
+                    <div>
+                        <p class="nickname"><%= comments[i].name %></p>
+                        <img src="https://img.freepik.com/free-vector/man-avatar-portrait-of-a-man-minimalist-flat-illustration_186332-435.jpg?w=740"
+                             , width="50">
+                        <span class="comment-text"><%= comments[i].content %></span>
+                        <span> -- recently</span>
+                    </div>
+                    <% } %>
+                </div>
+
+
+                <form id="comment" method="post">
+                    <lable for="nickname">Name</lable>
+                    <input id="nickname" type="text" name="name" placeholder="name" required/><br>
+
+                    <lable for="comment">Comment</lable>
+                    <input id="comment" type="text" name="content" placeholder="your opinion" required/><br>
+
+                    <p><input type="submit"></p>
+                </form>
+
+            </article>
+        </section>
+    </main>
+
+    <%- include('footer') %>
+
+</div>
+</body>
+</html>
